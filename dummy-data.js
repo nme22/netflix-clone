@@ -1,11 +1,11 @@
 const DUMMY_EVENTS = [
    {
       id: 'e1',
-      title: 'Programming for everyone',
+      title: 'Learn to code',
       description:
-         'Everyone can learn to code! Yes, everyone! In this live event, we are going to go through all the key basics and get you started with programming as well.',
-      location: 'Somestreet 25, 12345 San Somewhereo',
-      date: '2021-05-12',
+         'Everyone can learn to code! Yes, everyone! All you have to do is put your heart into it, always be coding, and hone your skills!',
+      location: 'Anywhere, With an internet conncection',
+      date: '2022-12-22',
       image: 'images/coding-event.jpg',
       isFeatured: false,
    },
